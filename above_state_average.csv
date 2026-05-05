@@ -1,0 +1,51 @@
+county,rural_urban,incidence_rate,trend,above_state_average
+"Cass County",Rural,581.9,rising,83.1
+"Palo Alto County",Rural,573.1,falling,74.3
+"Appanoose County",Rural,556.1,stable,57.3
+"Cherokee County",Rural,552.8,stable,54
+"Chickasaw County",Rural,547.9,rising,49.1
+"Clinton County",Rural,547.3,stable,48.5
+"Howard County",Rural,546.9,stable,48.1
+"Monona County",Rural,545.9,stable,47.1
+"Jackson County",Rural,545.6,stable,46.8
+"Tama County",Rural,544.4,rising,45.6
+"Madison County",Urban,540.6,stable,41.8
+"Monroe County",Rural,534.3,stable,35.5
+"Pocahontas County",Rural,534.3,stable,35.5
+"Decatur County",Rural,533.8,stable,35
+"Butler County",Rural,533.6,rising,34.8
+"Floyd County",Rural,531.7,stable,32.9
+"Franklin County",Rural,530,rising,31.2
+"Grundy County",Urban,528,stable,29.2
+"Wapello County",Rural,524.2,stable,25.4
+"Harrison County",Urban,522.7,stable,23.9
+"Plymouth County",Rural,520.9,stable,22.1
+"Page County",Rural,520.3,stable,21.5
+"Des Moines County",Rural,520.2,stable,21.4
+"Keokuk County",Rural,520.1,stable,21.3
+"Buchanan County",Rural,520,stable,21.2
+"Osceola County",Rural,519,stable,20.2
+"Greene County",Rural,519,rising,20.2
+"Benton County",Urban,518.7,stable,19.9
+"Boone County",Urban,518.1,rising,19.3
+"Fremont County",Rural,517.6,stable,18.8
+"Mitchell County",Rural,517.6,stable,18.8
+"Marion County",Rural,517.5,rising,18.7
+"Black Hawk County",Urban,516.7,stable,17.9
+"Clay County",Rural,515.9,stable,17.1
+"Woodbury County",Urban,515.4,stable,16.6
+"Cedar County",Rural,515,stable,16.2
+"Ringgold County",Rural,514.5,stable,15.7
+"Adams County",Rural,513.7,rising,14.9
+"Humboldt County",Rural,513.1,stable,14.3
+"Linn County",Urban,512.2,stable,13.4
+"Scott County",Urban,511.6,stable,12.8
+"Dickinson County",Rural,510.3,stable,11.5
+"Lyon County",Rural,509.3,stable,10.5
+"Montgomery County",Rural,505.8,stable,7
+"Lee County",Rural,505.4,stable,6.6
+"Bremer County",Urban,505.2,rising,6.4
+"Muscatine County",Rural,503,stable,4.2
+"Louisa County",Rural,502.7,stable,3.9
+"Marshall County",Rural,500.3,stable,1.5
+"Worth County",Rural,499.3,stable,0.5
